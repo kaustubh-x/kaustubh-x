@@ -37,7 +37,6 @@ Languages:     Python • Bash
 Cloud:         AWS (Bedrock, EC2, IAM, S3)
 AI/ML:         AWS Bedrock (Claude), OpenCV, boto3
 Automation:    n8n, PyAutoGUI
-Security:      Nmap, Metasploit, Linux privesc
 Tools:         Git, Jupyter, VS Code, Kali Linux
 ```
 
