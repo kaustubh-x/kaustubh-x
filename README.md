@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Bedrock%20%7C%20EC2-FF9900?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?logo=n8n&logoColor=white"/>
 </p>
 
